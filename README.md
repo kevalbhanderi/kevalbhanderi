@@ -1,6 +1,6 @@
 Hi there, I'm Keval 👋
 
-I'm enthusiastic techi and a devloper !
+I'm enthusiastic techi and a Software Engineer !
 
 
     🔭 I’m currently working on Python-django
